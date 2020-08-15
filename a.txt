@@ -1,1 +1,2 @@
+added some few lines
 Hey I am a text file. An example to commit ignored files.
